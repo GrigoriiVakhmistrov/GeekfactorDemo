@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>$(DefaultTargetFramework)</TargetFramework>
+    </PropertyGroup>
+
+
+
+    <ItemGroup>
+      <ProjectReference Include="..\TestApp.Models\TestApp.Models.csproj" />
+    </ItemGroup>
+
+</Project>
